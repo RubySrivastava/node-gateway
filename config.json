@@ -1,7 +1,7 @@
 {
     "http": {
-        "apiUrl": "https://URL_HERE",
-        "apiToken": "test",
+        "apiUrl": "https://conectric-deployment-7c3432.es.westeurope.azure.elastic-cloud.com",
+        "apiToken": "MHVzczVub0JRWm9mNEg4S3pkb0I6NDdCTGFiU0JUcS11T09yMkdtVmVGdw==",
         "enabled": true,
         "successCodes": [ 200, 201, 202, 204 ]
     },
@@ -12,7 +12,7 @@
     "maxRetries": 3,
     "readingInterval": 300,
     "useMillisecondTimestamps": true,
-    "useFahrenheitTemps": true,
+    "useFahrenheitTemps": false,
     "sendStatusMessages": true,
     "sendEventCount": true,
     "sendHopData": true,
