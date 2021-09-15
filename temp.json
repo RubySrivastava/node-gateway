@@ -1,0 +1,12 @@
+[
+  {
+    "gatewayId": "465689090           ",
+    "sensorID": "5768",
+    "TIMESTAMP": "0x0000000000000FA1"
+  },
+  {
+    "gatewayId": "87654987            ",
+    "sensorID": "7654",
+    "TIMESTAMP": "0x0000000000000FA2"
+  }
+]
