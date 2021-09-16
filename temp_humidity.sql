@@ -31,6 +31,5 @@ VALUES
    ( '87654987', '7654')
 GO
 
-SELECT e.gatewayId, e.sensorID, e.TIMESTAMP
-FROM dbo.temp1 as e
+SELECT * FROM dbo.temp1 
 GO
