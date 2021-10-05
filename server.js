@@ -1,3 +1,9 @@
+var mqtt    = require('mqtt');
+var client  = mqtt.connect("mqtt://127.0.1.1",{clientId:"mqttjs01"});
+client.on("connect",function(){	
+console.log("connected");
+})
+
 const gateway = require('conectric-usb-gateway-beta')
 const request = require('request')
 const moment = require('moment')

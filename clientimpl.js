@@ -1,4 +1,4 @@
-// Template implementation.
+// Template implementation. 
 const moment = require('moment')
 
 const formatPayload = payload => {

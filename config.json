@@ -12,7 +12,7 @@
     "maxRetries": 3,
     "readingInterval": 300,
     "useMillisecondTimestamps": true,
-    "useFahrenheitTemps": true,
+    "useFahrenheitTemps": false,
     "sendStatusMessages": true,
     "sendEventCount": true,
     "sendHopData": true,
